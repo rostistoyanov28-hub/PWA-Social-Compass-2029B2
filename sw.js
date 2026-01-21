@@ -1,4 +1,4 @@
-sw.js
+
 const CACHE_NAME = 'social-compass-v1';
 const ASSETS = [
   'index.html',
