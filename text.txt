@@ -1,0 +1,17 @@
+manifest.webmanifest 
+
+{
+  "name": "Социален Компас",
+  "short_name": "Компас",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2c3e50",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
